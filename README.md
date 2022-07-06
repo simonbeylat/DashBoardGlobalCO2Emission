@@ -6,7 +6,6 @@ You need to install these packages.
     - dash_html_components 
     - dash_table
     - plotly
-    - plotly
     - pandas 
 ```
 
