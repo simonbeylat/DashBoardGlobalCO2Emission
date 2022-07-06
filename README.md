@@ -2,9 +2,6 @@
 You need to install these packages.
 ```
     - dash
-    - dash_core_components 
-    - dash_html_components 
-    - dash_table
     - plotly
     - pandas 
 ```
