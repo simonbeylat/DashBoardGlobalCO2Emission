@@ -1,5 +1,6 @@
 #### Installation
-You need to install these packages on your computer. 
+You need to install these packages.
+```
     - dash
     - dash_core_components 
     - dash_html_components 
@@ -7,6 +8,7 @@ You need to install these packages on your computer.
     - plotly
     - plotly
     - pandas 
+```
 
 Run this app with `python app.py`.
 ```zsh
